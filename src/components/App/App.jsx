@@ -1,4 +1,3 @@
-// import "./App.styled.jsx";
 import { Route, Routes } from "react-router-dom";
 import Layout from "../Layout/Layout.jsx";
 import Home from "../../pages/Home.jsx";
